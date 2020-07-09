@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "441663844753",
+    "firebase_url": "https://moviediary-skennetho.firebaseio.com",
+    "project_id": "moviediary-skennetho",
+    "storage_bucket": "moviediary-skennetho.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441663844753:android:6b1ad4781b4e32c6adea30",
+        "android_client_info": {
+          "package_name": "com.example.moviediary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441663844753-govnjq4elc2sqqmd1uita4hij9k266ft.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moviediary",
+            "certificate_hash": "35328e04f9143a11fa666654f3bde7ff1b08c679"
+          }
+        },
+        {
+          "client_id": "441663844753-c38p4rrqk67tap7c37v74g8llihsa1kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJRkQwQ0QNCN2_l0hCdbPrVFrzvts0e78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441663844753-c38p4rrqk67tap7c37v74g8llihsa1kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
